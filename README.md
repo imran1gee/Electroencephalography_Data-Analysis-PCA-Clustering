@@ -1,4 +1,4 @@
-### Electroencephalography-EEG-PCA-Hierarchical-Clustering
+# Electroencephalography-EEG-PCA-Hierarchical-Clustering
 
 This repository showcases a project focused on analyzing EEG (Electroencephalography) data using **Principal Component Analysis (PCA)** for dimensionality reduction followed by **Hierarchical Clustering**. The goal of this project is to explore the brain activity patterns captured in the EEG data, reduce the dimensionality of the features, and apply clustering techniques to identify distinct patterns or states of brain activity.
 
